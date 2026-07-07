@@ -1,0 +1,7 @@
+.venv
+*.aux
+*.log
+*.synctex.gz
+*.tex
+*.png
+*.out
